@@ -15,7 +15,6 @@ import { useAppSelector } from '../app/hooks'
 import { generateMeetingID } from '../utils/generateMeetingID'
 import { useNavigate } from 'react-router-dom'
 import useToast from '../hooks/useToast'
-import { User } from 'firebase/auth'
 import MeetingMaximumUserField from '../components/FormComponents/MeetingMaximumUserField'
 
 

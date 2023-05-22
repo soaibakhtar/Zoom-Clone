@@ -3139,10 +3139,10 @@
   resolved "https://registry.yarnpkg.com/@xtuc/long/-/long-4.2.2.tgz#d291c6a4e97989b5c61d9acf396ae4fe133a718d"
   integrity sha512-NuHqBY1PB/D8xU6s/thBgOAiAP7HOYDQ32+BFZILJ8ivkUkAHQnWfn6WhL79Owj1qmUnoN/YPhktdIoucipkAQ==
 
-"@zegocloud/zego-uikit-prebuilt@^1.8.2":
-  version "1.8.2"
-  resolved "https://registry.yarnpkg.com/@zegocloud/zego-uikit-prebuilt/-/zego-uikit-prebuilt-1.8.2.tgz#cd252941c643e58bcd259d4d9251346c9c5d1b4b"
-  integrity sha512-QUtlVwBLsvLAi0smL5ileOLptaBilP1ptmj8RhmHU6LzaUE/52AckynnUGswrXgql6TbGLie2htwM7POfA6K1Q==
+"@zegocloud/zego-uikit-prebuilt@^1.8.3":
+  version "1.8.3"
+  resolved "https://registry.yarnpkg.com/@zegocloud/zego-uikit-prebuilt/-/zego-uikit-prebuilt-1.8.3.tgz#45abbf1191e302f4ace1f7e28c655661aeba1cba"
+  integrity sha512-7I7+TLLVkxs/mObtYN6+fnejfXzAOk2xjtlVHMwhghK1pUAO8t9ZNlnotTwGZugCCn6Vnalqo51RjpL4qMfdmQ==
 
 abab@^2.0.3, abab@^2.0.5:
   version "2.0.6"
@@ -4637,6 +4637,11 @@ dotenv@^10.0.0:
   version "10.0.0"
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-10.0.0.tgz#3d4227b8fb95f81096cdd2b66653fb2c7085ba81"
   integrity sha512-rlBi9d8jpv9Sf1klPjNfFAuWDjKLwTIJJ/VxtoTwIR6hnZxcEOQCZg2oIL3MWBYw5GpUDKOEnND7LXTbIpQ03Q==
+
+dotenv@^16.0.3:
+  version "16.0.3"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.0.3.tgz#115aec42bac5053db3c456db30cc243a5a836a07"
+  integrity sha512-7GO6HghkA5fYG9TYnNxi14/7K9f5occMlp3zXAuSxn7CKCxt9xbNWG7yF8hTCSUchlfWSe3uLmlPfigevRItzQ==
 
 duplexer@^0.1.2:
   version "0.1.2"

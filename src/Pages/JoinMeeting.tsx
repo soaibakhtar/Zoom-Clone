@@ -109,7 +109,7 @@ export default function JoinMeeting() {
             },
             showTurnOffRemoteCameraButton: true,  
             showTurnOffRemoteMicrophoneButton: true,  
-            showRemoveUserButton: true, 
+            showRemoveUserButton: true,
           });
     }
 
